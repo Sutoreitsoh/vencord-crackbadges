@@ -4759,14 +4759,12 @@
   ],
   "782722839702142976": [
     {
-      "tooltip": "HypeSquad Events",
-      "badge": "https://raw.githubusercontent.com/Sutoreitsoh/vencord-crackbadges/main/782722839702142976/hypesquadevents.png"
-    }
-  ],
-  "782722839702142976": [
-    {
       "tooltip": "Discord Bug Hunter (Tier 2)",
       "badge": "https://raw.githubusercontent.com/Sutoreitsoh/vencord-crackbadges/main/782722839702142976/discordbughunter2.png"
+    },
+    {
+      "tooltip": "HypeSquad Events",
+      "badge": "https://raw.githubusercontent.com/Sutoreitsoh/vencord-crackbadges/main/782722839702142976/hypesquadevents.png"
     }
   ]
 }
