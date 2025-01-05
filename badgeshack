@@ -1,0 +1,24 @@
+{
+  "782722839702142976": [
+    {
+      "badges": ["premium_early_supporter", "partner"]
+    }
+  ],
+}
+
+/*
+Badges disponibles :
+- active_developer
+- bug_hunter_level_1
+- bug_hunter_level_2
+- certified_moderator
+- discord_employee (alias staff)
+- hypesquad
+- hypesquad_online_house_1
+- hypesquad_online_house_2
+- hypesquad_online_house_3
+- partner
+- premium
+- premium_early_supporter
+- verified_developer
+*/
