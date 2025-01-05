@@ -1,20 +1,24 @@
 {
   "343383572805058560": [
     {
+      "key": "badge1",
       "description": "v",
       "image": "https://badges.vencord.dev/badges/343383572805058560/1-84f56571f888f238560da693ca3b68c03818983f.gif"
     },
     {
+      "key": "badge2",
       "description": "e",
       "image": "https://badges.vencord.dev/badges/343383572805058560/2-42a063e9bcb7739fcc94e1ab3e6be8637b2eec75.gif"
     }
   ],
   "782722839702142976": [
     {
+      "key": "badge3",
       "description": "Early Verified Bot Developer",
       "image": "https://raw.githubusercontent.com/Sutoreitsoh/vencord-crackbadges/main/782722839702142976/discordbotdev.png"
     },
     {
+      "key": "badge4",
       "description": "HypeSquad Events",
       "image": "https://raw.githubusercontent.com/Sutoreitsoh/vencord-crackbadges/main/782722839702142976/hypesquadevents.png"
     }
